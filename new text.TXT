@@ -1,1 +1,2 @@
-This is the first file
+This is the first file.
+THis is the second line that were added to the file.
